@@ -12,69 +12,7 @@ release sequence is implied.
 
 | Device | Comparison | Manifest |
 | --- | --- | --- |
-| `iPhone11,2,iPhone11,4,iPhone11,6` | [18.7.2 (22H124) → 18.7.3 (22H217)](diffs/18_7_2_22H124__vs_18_7_3_22H217/README.md) | [provenance](manifests/18_7_2_22H124__vs_18_7_3_22H217.json) |
-| `iPhone11,8` | [18.7.10 (22H373) → 18.7.10 (22H374)](diffs/18_7_10_22H373_vs_18_7_10_22H374/README.md) | [provenance](manifests/18_7_10_22H373_vs_18_7_10_22H374.json) |
-| `iPhone11,8` | [18.7.1 (22H31) → 18.7.2 (22H124)](diffs/18_7_1_22H31__vs_18_7_2_22H124/README.md) | [provenance](manifests/18_7_1_22H31__vs_18_7_2_22H124.json) |
-| `iPhone11,8` | [18.7.6 (22H320) → 18.7.7 (22H340)](diffs/18_7_6_22H320__vs_18_7_7_22H340/README.md) | [provenance](manifests/18_7_6_22H320__vs_18_7_7_22H340.json) |
-| `iPhone11,8` | [18.7.7 (22H333) → 18.7.7 (22H340)](diffs/18_7_7_22H333__vs_18_7_7_22H340/README.md) | [provenance](manifests/18_7_7_22H333__vs_18_7_7_22H340.json) |
-| `iPhone12,1` | [18.3 (22D63) → 18.3 (22D64)](diffs/18_3_22D63__vs_18_3_22D64/README.md) | [provenance](manifests/18_3_22D63__vs_18_3_22D64.json) |
-| `iPhone16,2` | [17.5.1 (21F90) → 18.0 (22A5282m)](diffs/17_5_1_21F90__vs_18_0_22A5282m/TOC.md) | [provenance](manifests/17_5_1_21F90__vs_18_0_22A5282m.json) |
-| `iPhone16,2` | [18.0 (22A3354) → 18.0.1 (22A3370)](diffs/18_0_22A3354__vs_18_0_1_22A3370/README.md) | [provenance](manifests/18_0_22A3354__vs_18_0_1_22A3370.json) |
-| `iPhone16,2` | [18.0 (22A5282m) → 18.0 (22A5297f)](diffs/18_0_22A5282m__vs_18_0_22A5297f/TOC.md) | [provenance](manifests/18_0_22A5282m__vs_18_0_22A5297f.json) |
-| `iPhone16,2` | [18.0 (22A5297f) → 18.0 (22A5307f)](diffs/18_0_22A5297f__vs_18_0_22A5307f/TOC.md) | [provenance](manifests/18_0_22A5297f__vs_18_0_22A5307f.json) |
-| `iPhone16,2` | [18.0 (22A5307f) → 18.0 (22A5307i)](diffs/18_0_22A5307f__vs_18_0_22A5307i/TOC.md) | [provenance](manifests/18_0_22A5307f__vs_18_0_22A5307i.json) |
-| `iPhone16,2` | [18.0 (22A5307i) → 18.0 (22A5316j)](diffs/18_0_22A5307i__vs_18_0_22A5316j/TOC.md) | [provenance](manifests/18_0_22A5307i__vs_18_0_22A5316j.json) |
-| `iPhone16,2` | [18.0 (22A5316k) → 18.0 (22A5326f)](diffs/18_0_22A5316k__vs_18_0_22A5326f/TOC.md) | [provenance](manifests/18_0_22A5316k__vs_18_0_22A5326f.json) |
-| `iPhone16,2` | [18.0 (22A5316k) → 18.1 (22B5007p)](diffs/18_0_22A5316k__vs_18_1_22B5007p/TOC.md) | [provenance](manifests/18_0_22A5316k__vs_18_1_22B5007p.json) |
-| `iPhone16,2` | [18.0 (22A5326f) → 18.0 (22A5338b)](diffs/18_0_22A5326f__vs_18_0_22A5338b/README.md) | [provenance](manifests/18_0_22A5326f__vs_18_0_22A5338b.json) |
-| `iPhone16,2` | [18.0 (22A5338b) → 18.0 (22A5346a)](diffs/18_0_22A5338b__vs_18_0_22A5346a/README.md) | [provenance](manifests/18_0_22A5338b__vs_18_0_22A5346a.json) |
-| `iPhone16,2` | [18.0 (22A5346a) → 18.0 (22A5350a)](diffs/18_0_22A5346a__vs_18_0_22A5350a/README.md) | [provenance](manifests/18_0_22A5346a__vs_18_0_22A5350a.json) |
-| `iPhone16,2` | [18.0 (22A5350a) → 18.0 (22A3354)](diffs/18_0_22A5350a__vs_18_0_22A3354/README.md) | [provenance](manifests/18_0_22A5350a__vs_18_0_22A3354.json) |
-| `iPhone16,2` | [18.1 (22B5007p) → 18.1 (22B5023e)](diffs/18_1_22B5007p__vs_18_1_22B5023e/README.md) | [provenance](manifests/18_1_22B5007p__vs_18_1_22B5023e.json) |
-| `iPhone16,2` | [18.1 (22B5023e) → 18.1 (22B5034e)](diffs/18_1_22B5023e__vs_18_1_22B5034e/README.md) | [provenance](manifests/18_1_22B5023e__vs_18_1_22B5034e.json) |
-| `iPhone16,2` | [18.1 (22B5034e) → 18.1 (22B5045g)](diffs/18_1_22B5034e__vs_18_1_22B5045g/README.md) | [provenance](manifests/18_1_22B5034e__vs_18_1_22B5045g.json) |
-| `iPhone17,1` | [18.1 (22B5045h) → 18.1 (22B5054e)](diffs/18_1_22B5045h__vs_18_1_22B5054e/README.md) | [provenance](manifests/18_1_22B5045h__vs_18_1_22B5054e.json) |
-| `iPhone17,1` | [18.1 (22B5054e) → 18.1 (22B5069a)](diffs/18_1_22B5054e__vs_18_1_22B5069a/README.md) | [provenance](manifests/18_1_22B5054e__vs_18_1_22B5069a.json) |
-| `iPhone17,1` | [18.1 (22B5069a) → 18.1 (22B5075a)](diffs/18_1_22B5069a__vs_18_1_22B5075a/README.md) | [provenance](manifests/18_1_22B5069a__vs_18_1_22B5075a.json) |
-| `iPhone17,1` | [18.1 (22B5075a) → 18.1 (22B82)](diffs/18_1_22B5075a__vs_18_1_22B82/README.md) | [provenance](manifests/18_1_22B5075a__vs_18_1_22B82.json) |
-| `iPhone17,1` | [18.1 (22B82) → 18.1.1 (22B91)](diffs/18_1_22B82__vs_18_1_1_22B91/README.md) | [provenance](manifests/18_1_22B82__vs_18_1_1_22B91.json) |
-| `iPhone17,1` | [18.1 (22B82) → 18.2 (22C5109p)](diffs/18_1_22B82__vs_18_2_22C5109p/README.md) | [provenance](manifests/18_1_22B82__vs_18_2_22C5109p.json) |
-| `iPhone17,1` | [18.2 (22C150) → 18.2 (22C151)](diffs/18_2_22C150__vs_18_2_22C151/README.md) | [provenance](manifests/18_2_22C150__vs_18_2_22C151.json) |
-| `iPhone17,1` | [18.2 (22C151) → 18.2 (22C152)](diffs/18_2_22C151__vs_18_2_22C152/README.md) | [provenance](manifests/18_2_22C151__vs_18_2_22C152.json) |
-| `iPhone17,1` | [18.2 (22C152) → 18.2.1 (22C161)](diffs/18_2_22C152__vs_18_2_1_22C161/README.md) | [provenance](manifests/18_2_22C152__vs_18_2_1_22C161.json) |
-| `iPhone17,1` | [18.2 (22C152) → 18.3 (22D5034e)](diffs/18_2_22C152__vs_18_3_22D5034e/README.md) | [provenance](manifests/18_2_22C152__vs_18_3_22D5034e.json) |
-| `iPhone17,1` | [18.2 (22C5109p) → 18.2 (22C5125e)](diffs/18_2_22C5109p__vs_18_2_22C5125e/README.md) | [provenance](manifests/18_2_22C5109p__vs_18_2_22C5125e.json) |
-| `iPhone17,1` | [18.2 (22C5125e) → 18.2 (22C5131e)](diffs/18_2_22C5125e__vs_18_2_22C5131e/README.md) | [provenance](manifests/18_2_22C5125e__vs_18_2_22C5131e.json) |
-| `iPhone17,1` | [18.2 (22C5131e) → 18.2 (22C5142a)](diffs/18_2_22C5131e__vs_18_2_22C5142a/README.md) | [provenance](manifests/18_2_22C5131e__vs_18_2_22C5142a.json) |
-| `iPhone17,1` | [18.2 (22C5142a) → 18.2 (22C150)](diffs/18_2_22C5142a__vs_18_2_22C150/README.md) | [provenance](manifests/18_2_22C5142a__vs_18_2_22C150.json) |
-| `iPhone17,1` | [18.3.1 (22D72) → 18.3.2 (22D82)](diffs/18_3_1_22D72__vs_18_3_2_22D82/README.md) | [provenance](manifests/18_3_1_22D72__vs_18_3_2_22D82.json) |
-| `iPhone17,1` | [18.3.1 (22D72) → 18.4 (22E5200s)](diffs/18_3_1_22D72__vs_18_4_22E5200s/README.md) | [provenance](manifests/18_3_1_22D72__vs_18_4_22E5200s.json) |
-| `iPhone17,1` | [18.3 (22D5034e) → 18.3 (22D5040d)](diffs/18_3_22D5034e__vs_18_3_22D5040d/README.md) | [provenance](manifests/18_3_22D5034e__vs_18_3_22D5040d.json) |
-| `iPhone17,1` | [18.3 (22D5040d) → 18.3 (22D5055b)](diffs/18_3_22D5040d__vs_18_3_22D5055b/README.md) | [provenance](manifests/18_3_22D5040d__vs_18_3_22D5055b.json) |
-| `iPhone17,1` | [18.3 (22D5055b) → 18.3 (22D60)](diffs/18_3_22D5055b__vs_18_3_22D60/README.md) | [provenance](manifests/18_3_22D5055b__vs_18_3_22D60.json) |
-| `iPhone17,1` | [18.3 (22D60) → 18.3 (22D63)](diffs/18_3_22D60__vs_18_3_22D63/README.md) | [provenance](manifests/18_3_22D60__vs_18_3_22D63.json) |
-| `iPhone17,1` | [18.3 (22D63) → 18.3.1 (22D72)](diffs/18_3_22D63__vs_18_3_1_22D72/README.md) | [provenance](manifests/18_3_22D63__vs_18_3_1_22D72.json) |
-| `iPhone17,1` | [18.4 (22E239) → 18.4 (22E240)](diffs/18_4_22E239__vs_18_4_22E240/README.md) | [provenance](manifests/18_4_22E239__vs_18_4_22E240.json) |
-| `iPhone17,1` | [18.4 (22E240) → 18.4.1 (22E252)](diffs/18_4_22E240__vs_18_4_1_22E252/README.md) | [provenance](manifests/18_4_22E240__vs_18_4_1_22E252.json) |
-| `iPhone17,1` | [18.4 (22E240) → 18.5 (22F5042g)](diffs/18_4_22E240__vs_18_5_22F5042g/README.md) | [provenance](manifests/18_4_22E240__vs_18_5_22F5042g.json) |
-| `iPhone17,1` | [18.4 (22E5200s) → 18.4 (22E5216h)](diffs/18_4_22E5200s__vs_18_4_22E5216h/README.md) | [provenance](manifests/18_4_22E5200s__vs_18_4_22E5216h.json) |
-| `iPhone17,1` | [18.4 (22E5216h) → 18.4 (22E5222f)](diffs/18_4_22E5216h__vs_18_4_22E5222f/README.md) | [provenance](manifests/18_4_22E5216h__vs_18_4_22E5222f.json) |
-| `iPhone17,1` | [18.4 (22E5222f) → 18.4 (22E5232a)](diffs/18_4_22E5222f__vs_18_4_22E5232a/README.md) | [provenance](manifests/18_4_22E5222f__vs_18_4_22E5232a.json) |
-| `iPhone17,1` | [18.4 (22E5232a) → 18.4 (22E239)](diffs/18_4_22E5232a__vs_18_4_22E239/README.md) | [provenance](manifests/18_4_22E5232a__vs_18_4_22E239.json) |
-| `iPhone17,1` | [18.5 (22F5042g) → 18.5 (22F5053f)](diffs/18_5_22F5042g__vs_18_5_22F5053f/README.md) | [provenance](manifests/18_5_22F5042g__vs_18_5_22F5053f.json) |
-| `iPhone17,1` | [18.5 (22F5053f) → 18.5 (22F5053j)](diffs/18_5_22F5053f__vs_18_5_22F5053j/README.md) | [provenance](manifests/18_5_22F5053f__vs_18_5_22F5053j.json) |
-| `iPhone17,1` | [18.5 (22F5053j) → 18.5 (22F5068a)](diffs/18_5_22F5053j__vs_18_5_22F5068a/README.md) | [provenance](manifests/18_5_22F5053j__vs_18_5_22F5068a.json) |
-| `iPhone17,1` | [18.5 (22F5068a) → 18.5 (22F75)](diffs/18_5_22F5068a__vs_18_5_22F75/README.md) | [provenance](manifests/18_5_22F5068a__vs_18_5_22F75.json) |
-| `iPhone17,1` | [18.5 (22F75) → 18.5 (22F76)](diffs/18_5_22F75__vs_18_5_22F76/README.md) | [provenance](manifests/18_5_22F75__vs_18_5_22F76.json) |
-| `iPhone17,1` | [18.5 (22F76) → 18.6 (22G5054d)](diffs/18_5_22F76__vs_18_6_22G5054d/README.md) | [provenance](manifests/18_5_22F76__vs_18_6_22G5054d.json) |
-| `iPhone17,1` | [18.6.1 (22G90) → 18.6.2 (22G100)](diffs/18_6_1_22G90__vs_18_6_2_22G100/README.md) | [provenance](manifests/18_6_1_22G90__vs_18_6_2_22G100.json) |
-| `iPhone17,1` | [18.6 (22G5054d) → 18.6 (22G5064d)](diffs/18_6_22G5054d__vs_18_6_22G5064d/README.md) | [provenance](manifests/18_6_22G5054d__vs_18_6_22G5064d.json) |
-| `iPhone17,1` | [18.6 (22G5064d) → 18.6 (22G5073b)](diffs/18_6_22G5064d__vs_18_6_22G5073b/README.md) | [provenance](manifests/18_6_22G5064d__vs_18_6_22G5073b.json) |
-| `iPhone17,1` | [18.6 (22G5073b) → 18.6 (22G84)](diffs/18_6_22G5073b__vs_18_6_22G84/README.md) | [provenance](manifests/18_6_22G5073b__vs_18_6_22G84.json) |
-| `iPhone17,1` | [18.6 (22G84) → 18.6 (22G86)](diffs/18_6_22G84__vs_18_6_22G86/README.md) | [provenance](manifests/18_6_22G84__vs_18_6_22G86.json) |
-| `iPhone17,1` | [18.6 (22G86) → 18.6.1 (22G90)](diffs/18_6_22G86__vs_18_6_1_22G90/README.md) | [provenance](manifests/18_6_22G86__vs_18_6_1_22G90.json) |
-| `iPhone17,5` | [18.3.1 (22D8075) → 18.4 (22E5216h)](diffs/18_3_1_22D8075__vs_18_4_22E5216h/README.md) | [provenance](manifests/18_3_1_22D8075__vs_18_4_22E5216h.json) |
-| `iPhone17,5` | [18.4 (22E5216h) → 18.4 (22E5222f)](diffs/iPhone17_5/18_4_22E5216h__vs_18_4_22E5222f/README.md) | [provenance](manifests/iPhone17_5/18_4_22E5216h__vs_18_4_22E5222f.json) |
+| `iPhone11,8` | [18.7.10 (22H374) → 18.7.11 (22H384)](diffs/18_7_10_22H374_vs_18_7_11_22H384/README.md) | [provenance](manifests/18_7_10_22H374_vs_18_7_11_22H384.json) |
 
 ## Layout and integrity
 
