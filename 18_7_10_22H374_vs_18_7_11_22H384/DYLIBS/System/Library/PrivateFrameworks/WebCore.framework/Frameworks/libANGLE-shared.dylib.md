@@ -1,0 +1,98 @@
+## libANGLE-shared.dylib
+
+> `/System/Library/PrivateFrameworks/WebCore.framework/Frameworks/libANGLE-shared.dylib`
+
+```diff
+
+-621.10.1.10.3
++621.10.1.10.5
+   __TEXT.__text: 0x259dd8
+   __TEXT.__auth_stubs: 0xdc0
+   __TEXT.__const: 0x84800
+-  __TEXT.__cstring: 0x434a9
++  __TEXT.__cstring: 0x43e81
+   __TEXT.__gcc_except_tab: 0x2ab4
+   __TEXT.__oslogstring: 0xf
+   __TEXT.__unwind_info: 0x1770
+CStrings:
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/common/aligned_memory.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/common/android_util.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/compiler/translator/IntermNode.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/image_util/loadimage_astc.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/BlobCache.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Buffer.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Context.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Debug.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Display.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/GLES1Renderer.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/HandleAllocator.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Platform.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Program.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Shader.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/State.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Surface.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Texture.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/angletypes.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/queryconversions.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/BufferMtl.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/ContextMtl.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/DisplayMtl.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/FrameBufferMtl.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/IOSurfaceSurfaceMtl.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/ProgramExecutableMtl.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/ProvokingVertexHelper.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/RenderBufferMtl.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/SurfaceMtl.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/TextureMtl.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/TransformFeedbackMtl.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/VertexArrayMtl.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/mtl_command_buffer.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/mtl_context_device.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/mtl_pipeline_cache.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/mtl_render_utils.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/mtl_resources.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/mtl_utils.mm"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/renderer_utils.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/validationES.cpp"
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/validationES2.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/common/aligned_memory.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/common/android_util.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/compiler/translator/IntermNode.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/image_util/loadimage_astc.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/BlobCache.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Buffer.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Context.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Debug.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Display.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/GLES1Renderer.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/HandleAllocator.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Platform.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Program.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Shader.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/State.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Surface.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/Texture.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/angletypes.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/queryconversions.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/BufferMtl.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/ContextMtl.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/DisplayMtl.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/FrameBufferMtl.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/IOSurfaceSurfaceMtl.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/ProgramExecutableMtl.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/ProvokingVertexHelper.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/RenderBufferMtl.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/SurfaceMtl.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/TextureMtl.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/TransformFeedbackMtl.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/VertexArrayMtl.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/mtl_command_buffer.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/mtl_context_device.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/mtl_pipeline_cache.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/mtl_render_utils.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/mtl_resources.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/metal/mtl_utils.mm"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/renderer/renderer_utils.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/validationES.cpp"
+- "/Library/Caches/com.apple.xbs/Sources/ANGLE/Source/ThirdParty/ANGLE/src/libANGLE/validationES2.cpp"
+```
