@@ -1,0 +1,109 @@
+## iMessageLite
+
+> `/System/Library/Messages/PlugIns/iMessageLite.imservice/iMessageLite`
+
+```diff
+
+-1402.700.53.2.33
++1402.700.63.2.7
+   __TEXT.__text: 0x3e464
+   __TEXT.__auth_stubs: 0x14a0
+   __TEXT.__objc_stubs: 0x620
+Symbols:
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/Symbols/BuiltProducts/libiMessageLiteCore.a(BitCollection+MessageContent.o)
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/Symbols/BuiltProducts/libiMessageLiteCore.a(BitCollection.o)
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/Symbols/BuiltProducts/libiMessageLiteCore.a(BitPackable.o)
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/Symbols/BuiltProducts/libiMessageLiteCore.a(Data+Lite.o)
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/DerivedSources/
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IDSOffGridEncryptedMessage+Consolidation.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMDChat+Lite.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMDService+Lite.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMIDSOffGrid.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMMessageItem+Lite.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMMessageItem+LiteBlastDoor.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMMessageItem+LiteSerialization.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMMessageItem+MessageSummaryInfo.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessage.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageAcknowledgement.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageContent.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageContext.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageEffect.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageHeader.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageReceiveError.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageSegmentStore.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageSegmentStoreMigrationPlan.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageSegmentStoreSchemaV1.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageSendError.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Blocking.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Chats.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Connectivity.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Donations.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Downgrade.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Fetch.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+FirstUnlock.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+IDSOffGridMessengerDelegate.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Messages.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Receiving.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Sending.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+ServiceForSending.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageType.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/Logger+iMessageLite.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/NSAttributedString+MessageBody.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/String+LiteSerialization.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/TimeInterval+Downgrade.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/iMessageLite.swiftmodule
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/iMessageLite_vers.o
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLiteCore.build/Objects-normal/arm64e/iMessageLiteCore.swiftmodule
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/MessagesCore/IMServices/Satellite/
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/MessagesCore/IMServices/Satellite/iMessageLiteCore/Extensions/
++ /Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/MessagesCore/IMServices/Satellite/iMessageLiteCore/Types/
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/Symbols/BuiltProducts/libiMessageLiteCore.a(BitCollection+MessageContent.o)
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/Symbols/BuiltProducts/libiMessageLiteCore.a(BitCollection.o)
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/Symbols/BuiltProducts/libiMessageLiteCore.a(BitPackable.o)
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/Symbols/BuiltProducts/libiMessageLiteCore.a(Data+Lite.o)
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/DerivedSources/
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IDSOffGridEncryptedMessage+Consolidation.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMDChat+Lite.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMDService+Lite.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMIDSOffGrid.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMMessageItem+Lite.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMMessageItem+LiteBlastDoor.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMMessageItem+LiteSerialization.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/IMMessageItem+MessageSummaryInfo.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessage.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageAcknowledgement.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageContent.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageContext.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageEffect.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageHeader.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageReceiveError.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageSegmentStore.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageSegmentStoreMigrationPlan.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageSegmentStoreSchemaV1.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageSendError.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Blocking.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Chats.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Connectivity.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Donations.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Downgrade.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Fetch.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+FirstUnlock.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+IDSOffGridMessengerDelegate.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Messages.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Receiving.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+Sending.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession+ServiceForSending.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageServiceSession.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/LiteMessageType.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/Logger+iMessageLite.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/NSAttributedString+MessageBody.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/String+LiteSerialization.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/TimeInterval+Downgrade.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/iMessageLite.swiftmodule
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLite.build/Objects-normal/arm64e/iMessageLite_vers.o
+- /Library/Caches/com.apple.xbs/Binaries/MessagesCore/install/TempContent/Objects/iMessageLite.build/iMessageLiteCore.build/Objects-normal/arm64e/iMessageLiteCore.swiftmodule
+- /Library/Caches/com.apple.xbs/Sources/MessagesCore/IMServices/Satellite/
+- /Library/Caches/com.apple.xbs/Sources/MessagesCore/IMServices/Satellite/iMessageLiteCore/Extensions/
+- /Library/Caches/com.apple.xbs/Sources/MessagesCore/IMServices/Satellite/iMessageLiteCore/Types/
+```

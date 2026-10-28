@@ -1,0 +1,252 @@
+## PhotoLibraryServicesCore
+
+> `/System/Library/PrivateFrameworks/PhotoLibraryServicesCore.framework/PhotoLibraryServicesCore`
+
+```diff
+
+-770.0.174.0.0
++770.0.182.0.0
+   __TEXT.__text: 0xc4d24
+   __TEXT.__auth_stubs: 0x1c80
+   __TEXT.__objc_methlist: 0x7e8c
+   __TEXT.__const: 0x249c
+-  __TEXT.__cstring: 0x1428e
++  __TEXT.__cstring: 0x142cd
+   __TEXT.__dlopen_cstrs: 0x19c
+   __TEXT.__gcc_except_tab: 0x7144
+   __TEXT.__oslogstring: 0x9e22
+Symbols:
++ -[PLAssetsdLibraryInternalClient transferAssetsWithUuids:fromLibraryURL:transferOptions:completionHandler:]
++ -[PLAssetsdLibraryInternalClient transferPersonsWithUuids:fromLibraryURL:transferOptions:completionHandler:]
++ GCC_except_table1081
++ GCC_except_table1083
++ GCC_except_table1084
++ GCC_except_table1379
++ GCC_except_table1526
++ GCC_except_table1531
++ GCC_except_table1568
++ GCC_except_table1577
++ GCC_except_table1597
++ GCC_except_table1613
++ GCC_except_table1615
++ GCC_except_table254
++ GCC_except_table260
++ GCC_except_table263
++ GCC_except_table268
++ GCC_except_table271
++ GCC_except_table276
++ GCC_except_table279
++ GCC_except_table282
++ GCC_except_table291
++ GCC_except_table294
++ GCC_except_table300
++ GCC_except_table306
++ GCC_except_table309
++ GCC_except_table312
++ GCC_except_table315
++ GCC_except_table318
++ GCC_except_table373
++ GCC_except_table374
++ GCC_except_table394
++ GCC_except_table405
++ GCC_except_table418
++ GCC_except_table467
++ GCC_except_table472
++ GCC_except_table475
++ GCC_except_table478
++ GCC_except_table481
++ GCC_except_table484
++ GCC_except_table491
++ GCC_except_table505
++ GCC_except_table508
++ GCC_except_table514
++ GCC_except_table517
++ GCC_except_table520
++ GCC_except_table528
++ GCC_except_table584
++ GCC_except_table643
++ GCC_except_table675
++ GCC_except_table680
++ GCC_except_table683
++ GCC_except_table686
++ GCC_except_table692
++ GCC_except_table695
++ GCC_except_table698
++ GCC_except_table701
++ GCC_except_table704
++ GCC_except_table738
++ GCC_except_table743
++ GCC_except_table746
++ GCC_except_table749
++ GCC_except_table752
++ GCC_except_table758
++ GCC_except_table761
++ GCC_except_table764
++ GCC_except_table767
++ GCC_except_table770
++ GCC_except_table773
++ GCC_except_table776
++ GCC_except_table778
++ GCC_except_table781
++ GCC_except_table783
++ GCC_except_table786
++ GCC_except_table788
++ GCC_except_table791
++ GCC_except_table794
++ GCC_except_table797
++ GCC_except_table808
++ GCC_except_table811
++ GCC_except_table814
++ GCC_except_table817
++ GCC_except_table820
++ GCC_except_table823
++ GCC_except_table826
++ GCC_except_table829
++ GCC_except_table832
++ GCC_except_table835
++ GCC_except_table838
++ GCC_except_table841
++ GCC_except_table844
++ GCC_except_table846
++ GCC_except_table851
++ GCC_except_table854
++ GCC_except_table857
++ GCC_except_table860
++ GCC_except_table863
++ GCC_except_table865
++ GCC_except_table868
++ GCC_except_table871
++ GCC_except_table874
++ GCC_except_table877
++ GCC_except_table880
++ GCC_except_table891
++ GCC_except_table894
++ GCC_except_table897
++ GCC_except_table900
++ GCC_except_table903
++ GCC_except_table905
++ GCC_except_table910
++ GCC_except_table940
++ GCC_except_table942
++ GCC_except_table988
++ ___107-[PLAssetsdLibraryInternalClient transferAssetsWithUuids:fromLibraryURL:transferOptions:completionHandler:]_block_invoke
++ ___108-[PLAssetsdLibraryInternalClient transferPersonsWithUuids:fromLibraryURL:transferOptions:completionHandler:]_block_invoke
+- -[PLAssetsdLibraryClient transferAssetsWithUuids:fromLibraryURL:transferOptions:completionHandler:]
+- -[PLAssetsdLibraryClient transferPersonsWithUuids:fromLibraryURL:transferOptions:completionHandler:]
+- GCC_except_table1085
+- GCC_except_table1087
+- GCC_except_table1088
+- GCC_except_table1383
+- GCC_except_table1530
+- GCC_except_table1535
+- GCC_except_table1572
+- GCC_except_table1581
+- GCC_except_table1601
+- GCC_except_table251
+- GCC_except_table253
+- GCC_except_table258
+- GCC_except_table264
+- GCC_except_table267
+- GCC_except_table272
+- GCC_except_table275
+- GCC_except_table280
+- GCC_except_table283
+- GCC_except_table286
+- GCC_except_table295
+- GCC_except_table298
+- GCC_except_table304
+- GCC_except_table310
+- GCC_except_table313
+- GCC_except_table316
+- GCC_except_table319
+- GCC_except_table322
+- GCC_except_table377
+- GCC_except_table378
+- GCC_except_table402
+- GCC_except_table409
+- GCC_except_table422
+- GCC_except_table471
+- GCC_except_table476
+- GCC_except_table479
+- GCC_except_table482
+- GCC_except_table485
+- GCC_except_table492
+- GCC_except_table503
+- GCC_except_table509
+- GCC_except_table512
+- GCC_except_table518
+- GCC_except_table521
+- GCC_except_table524
+- GCC_except_table532
+- GCC_except_table588
+- GCC_except_table647
+- GCC_except_table679
+- GCC_except_table684
+- GCC_except_table687
+- GCC_except_table690
+- GCC_except_table696
+- GCC_except_table699
+- GCC_except_table702
+- GCC_except_table708
+- GCC_except_table709
+- GCC_except_table742
+- GCC_except_table747
+- GCC_except_table750
+- GCC_except_table753
+- GCC_except_table756
+- GCC_except_table762
+- GCC_except_table765
+- GCC_except_table768
+- GCC_except_table771
+- GCC_except_table774
+- GCC_except_table777
+- GCC_except_table780
+- GCC_except_table782
+- GCC_except_table785
+- GCC_except_table787
+- GCC_except_table790
+- GCC_except_table792
+- GCC_except_table795
+- GCC_except_table798
+- GCC_except_table809
+- GCC_except_table812
+- GCC_except_table815
+- GCC_except_table818
+- GCC_except_table821
+- GCC_except_table824
+- GCC_except_table827
+- GCC_except_table830
+- GCC_except_table833
+- GCC_except_table836
+- GCC_except_table839
+- GCC_except_table842
+- GCC_except_table845
+- GCC_except_table850
+- GCC_except_table852
+- GCC_except_table855
+- GCC_except_table858
+- GCC_except_table861
+- GCC_except_table864
+- GCC_except_table867
+- GCC_except_table869
+- GCC_except_table872
+- GCC_except_table875
+- GCC_except_table878
+- GCC_except_table881
+- GCC_except_table892
+- GCC_except_table895
+- GCC_except_table898
+- GCC_except_table901
+- GCC_except_table904
+- GCC_except_table909
+- GCC_except_table911
+- GCC_except_table914
+- GCC_except_table944
+- GCC_except_table946
+- GCC_except_table992
+- ___100-[PLAssetsdLibraryClient transferPersonsWithUuids:fromLibraryURL:transferOptions:completionHandler:]_block_invoke
+- ___99-[PLAssetsdLibraryClient transferAssetsWithUuids:fromLibraryURL:transferOptions:completionHandler:]_block_invoke
+CStrings:
++ "/Library/Caches/com.apple.xbs/<UUID>/TemporaryDirectory.<TMP>/Sources/Photos/Projects/PhotoLibraryServicesCore/Sources/PLTaggedPointer.m"
+- "/Library/Caches/com.apple.xbs/Sources/Photos/Projects/PhotoLibraryServicesCore/Sources/PLTaggedPointer.m"
+```
