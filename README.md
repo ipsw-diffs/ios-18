@@ -13,6 +13,7 @@ release sequence is implied.
 | Device | Comparison | Manifest |
 | --- | --- | --- |
 | `iPhone11,8` | [18.7.10 (22H374) → 18.7.11 (22H384)](diffs/18_7_10_22H374_vs_18_7_11_22H384/README.md) | [provenance](manifests/18_7_10_22H374_vs_18_7_11_22H384.json) |
+| `iPhone11,8` | [18.7.11 (22H384) → 18.7.12 (22H390)](diffs/18_7_11_22H384_vs_18_7_12_22H390/README.md) | [provenance](manifests/18_7_11_22H384_vs_18_7_12_22H390.json) |
 
 ## Layout and integrity
 
